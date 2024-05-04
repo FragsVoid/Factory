@@ -1,0 +1,4 @@
+name: Factory
+version: '${project.version}'
+main: me.factory.Factory
+api-version: '1.20'

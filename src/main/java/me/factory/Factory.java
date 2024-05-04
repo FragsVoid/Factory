@@ -1,0 +1,17 @@
+package me.factory;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public final class Factory extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        // Plugin startup logic
+
+    }
+
+    @Override
+    public void onDisable() {
+        // Plugin shutdown logic
+    }
+}
